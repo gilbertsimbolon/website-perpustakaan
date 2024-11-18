@@ -10,3 +10,10 @@ Fitur-fitur :
 6. Galeri
 7. Video
 8. Kontak
+
+Langkah-langkah Pembuatan Website: 
+
+1. Membuat Model dan Migrasi
+2. Konfigurasi Model dan Migrasi
+3. Membuat Controller
+4. Konfigurasi Controller
