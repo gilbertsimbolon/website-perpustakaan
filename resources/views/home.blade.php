@@ -6,50 +6,40 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     @vite('resources/css/app.css')
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
-    <title>Home</title>
+    <link rel="stylesheet" href="/resources/css/app.css">
+    <title>Perpustakaan UNIMA</title>
 </head>
-<body>
-    <div class="bg-white">
-    <x-header>
-      
-    </x-header>
-
+<body class="h-full bg-gray-50">
+<div class="min-h-full">
     <x-navbar></x-navbar>
 
-    <section id="home" class="relative isolate">
-        <div class="relative isolate px-6 pt-14 lg:px-8">
-            <div class="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80" aria-hidden="true">
-                <div class="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]" style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)">
-                </div>
+    <x-header></x-header>
+    <div class="relative isolate pt-16">
+        <!-- Section Home -->
+        <section id="home" class="flex flex-col justify-center items-center h-[calc(100vh-64px)] text-center text-white px-6" style="border: 1px solid black">
+            <div class="w-3/4 mx-auto">
+                <!-- Gambar -->
+                <img src="https://unima.ac.id/uploads/img_logo/1650416196421.png" alt="Logo Unima" class="size-40 mx-auto rounded-lg">
+                
+                <!-- Judul -->
+                <h1 class="mt-8 text-4xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">
+                    PERPUSTAKAAN UNIVERSITAS NEGERI MANADO
+                </h1>
+
+                <!-- Deskripsi -->
+                <p class="mt-4 w-full text-lg text-justify indent-14 text-gray-700">
+                    Perpustakaan Universitas Negeri Manado (UNIMA) adalah pusat informasi dan pembelajaran yang dirancang untuk mendukung aktivitas akademik, penelitian, dan pengembangan ilmu pengetahuan di lingkungan universitas. Dengan koleksi yang beragam, mulai dari buku teks, jurnal ilmiah, skripsi, hingga sumber digital, perpustakaan ini menjadi pusat referensi yang komprehensif bagi mahasiswa, dosen, dan staf akademik.
+                    Mengintegrasikan teknologi modern, perpustakaan UNIMA menyediakan layanan digital yang memungkinkan akses ke e-book, jurnal elektronik, dan database ilmiah internasional. Ruang baca yang nyaman, area diskusi, dan fasilitas multimedia menjadikan perpustakaan ini sebagai tempat yang ideal untuk belajar dan berkolaborasi.
+                    Komitmen perpustakaan UNIMA terhadap keberlanjutan pendidikan tercermin dalam program-programnya, seperti pelatihan literasi informasi, seminar, dan layanan konsultasi akademik. Dengan visi menjadi perpustakaan unggul di tingkat nasional dan internasional, perpustakaan UNIMA terus berinovasi dalam memberikan pelayanan terbaik kepada seluruh sivitas akademika.Perpustakaan Universitas Negeri Manado (UNIMA) adalah pusat informasi dan pembelajaran yang dirancang untuk mendukung aktivitas akademik, penelitian, dan pengembangan ilmu pengetahuan di lingkungan universitas. Dengan koleksi yang beragam, mulai dari buku teks, jurnal ilmiah, skripsi, hingga sumber digital, perpustakaan ini menjadi pusat referensi yang komprehensif bagi mahasiswa, dosen, dan staf akademik.
+                    Mengintegrasikan teknologi modern, perpustakaan UNIMA menyediakan layanan digital yang memungkinkan akses ke e-book, jurnal elektronik, dan database ilmiah internasional. Ruang baca yang nyaman, area diskusi, dan fasilitas multimedia menjadikan perpustakaan ini sebagai tempat yang ideal untuk belajar dan berkolaborasi.
+                </p>
             </div>
-            <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
-                <div class="hidden sm:mb-8 sm:flex sm:justify-center">
-                <h1>Ini halaman home</h1>
-                </div>
-            </div>
-                <div class="absolute inset-x-0 top-[calc(100%-13rem)] -z-10 transform-gpu overflow-hidden blur-3xl sm:top-[calc(100%-30rem)]" aria-hidden="true">
-                    <div class="relative left-[calc(50%+3rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-30 sm:left-[calc(50%+36rem)] sm:w-[72.1875rem]" style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)">
-                    </div>
-                </div>
-        </div>
-    </section>
-        <section id="visi-misi" class="relative isolate">
-        <div class="relative isolate px-6 pt-14 lg:px-8">
-            <div class="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80" aria-hidden="true">
-                <div class="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]" style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)">
-                </div>
-            </div>
-            <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
-                <div class="hidden sm:mb-8 sm:flex sm:justify-center">
-                <h1>Ini halaman home</h1>
-                </div>
-            </div>
-                <div class="absolute inset-x-0 top-[calc(100%-13rem)] -z-10 transform-gpu overflow-hidden blur-3xl sm:top-[calc(100%-30rem)]" aria-hidden="true">
-                    <div class="relative left-[calc(50%+3rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-30 sm:left-[calc(50%+36rem)] sm:w-[72.1875rem]" style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)">
-                    </div>
-                </div>
-        </div>
-    </section>
+        </section>
+        <!--Section Visi Misi-->
+        <section id="visi-misi" class="flex flex-col justify-center items-center h-[calc(100vh-64px)] text-center text-white px-6">
+            
+        </section>
+    </div>
 </div>
 </body>
 </html>
