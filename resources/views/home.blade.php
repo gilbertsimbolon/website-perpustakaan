@@ -36,9 +36,36 @@
             </div>
         </section>
         <!--Section Visi Misi-->
-        <section id="visi-misi" class="flex flex-col justify-center items-center h-[calc(100vh-64px)] text-center text-white px-6">
-            
+        <section id="visi-misi" class="flex flex-col justify-start items-center pt-14 h-[calc(100vh-64px)] text-center text-white px-6" style="border: 1px solid black">
+            <div class="max-w-7xl mx-auto text-center h-4/6" style="border: 3px solid red">
+                <h2 class="text-5xl font-bold font-serif text-gray-900" style="letter-spacing: 3px">VISI & MISI</h2>
+                <div class="mt-12 flex flex-col lg:flex-row gap-10 font-serif h-full">
+                    <!-- Bagian Visi -->
+                    <div class="flex-1 px-8 py-8" style="border: 1px solid black">
+                        <h3 class="text-3xl font-semibold text-gray-800 text-left">VISI</h3>
+                        <p class="mt-4 text-lg text-gray-700 text-justify tracking-wide">
+                        Menyediakan perpustakaan yang unggul dengan fasilitas yang lengkap dan mampu memberikan pelayanan yang berkualitas kepada pengguna dengan berbasis pada teknologi.
+                        </p>
+                    </div>
+
+                    <!-- Garis Vertikal -->
+                    <div class="border-l-2 border-gray-300 min-h-full mx-4"></div>
+
+                    <!-- Bagian Misi -->
+                    <div class="flex-1 px-8 py-8" style="border: 1px solid black">
+                        <h3 class="text-3xl font-semibold text-gray-800 text-right">MISI</h3>                            <p class="mt-4 text-lg text-gray-700 text-justify tracking-wide">
+                            1. Menyelenggarakan pendidikan tinggi yang berkualitas dan relevan dengan kebutuhan masyarakat.<br>
+                            2. Melakukan penelitian untuk pengembangan ilmu pengetahuan yang bermanfaat bagi masyarakat.<br>
+                            3. Mengabdi kepada masyarakat melalui pengabdian yang berbasis pada penelitian dan pengembangan.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            {{-- <div class="mt-16">
+                <img src="{{ asset('img/undraw_summer_1wi4.svg') }}" alt="Illustration" class="mx-auto max-w" style="border: 1px solid black">
+            </div> --}}
         </section>
+        <!-- Section -->
     </div>
 </div>
 </body>
