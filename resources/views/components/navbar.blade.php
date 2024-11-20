@@ -21,7 +21,7 @@
     <div class="hidden lg:flex lg:gap-x-12 justify-items-center">
         <a href="#home" class="text-sm font-semibold text-gray-900">Home</a>
         <a href="#visi-misi" class="text-sm font-semibold text-gray-900">Visi Misi</a>
-        <a href="#" class="text-sm font-semibold text-gray-900">Struktur</a>
+        <a href="#struktur" class="text-sm font-semibold text-gray-900">Struktur</a>
         <a href="#" class="text-sm font-semibold text-gray-900">Pegawai</a>
         <a href="#" class="text-sm font-semibold text-gray-900">Buku</a>
         <a href="#" class="text-sm font-semibold text-gray-900">Galeri</a>
