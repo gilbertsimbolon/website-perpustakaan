@@ -1,5 +1,5 @@
 <section id="home" class="flex flex-col justify-center items-center h-[calc(100vh-64px)] text-center text-white px-6">
-            <div class="w-3/4 mx-auto">
+            <div class="w-3/4 mx-auto" style="border: 1px solid black">
                 <!-- Gambar -->
                 <img src="https://unima.ac.id/uploads/img_logo/1650416196421.png" alt="Logo Unima" class="size-40 mx-auto rounded-lg">
                 

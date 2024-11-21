@@ -1,5 +1,5 @@
 <section id="visi-misi" class="flex flex-col justify-start items-center pt-14 h-[calc(100vh-64px)] text-center text-white px-6">
-            <div class="max-w-7xl mx-auto text-center h-4/6">
+            <div class="max-w-7xl mx-auto text-center h-4/6" style="border: 1px solid black">
                 <h2 class="text-5xl font-bold font-serif text-gray-900" style="letter-spacing: 3px">VISI & MISI</h2>
                 <div class="mt-12 flex flex-col lg:flex-row gap-10 font-serif h-full">
                     <!-- Bagian Visi -->
