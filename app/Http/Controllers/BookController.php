@@ -10,8 +10,7 @@ class BookController extends Controller
 {
     public function index()
     {
-        $books = DB::table('books')->paginate(10);
-
-        return view('components.buku-section', ['books' => $books]);
+        $books = Book::paginate(15); // Menampilkan 15 buku per halaman
+        return view('home', compact('books'));
     }
 }

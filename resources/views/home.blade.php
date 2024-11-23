@@ -27,6 +27,10 @@
         <x-pegawai-section></x-pegawai-section>
         <!-- Section Buku -->
         <x-buku-section></x-buku-section>
+        <!-- Section Galery -->
+        <x-galery-section></x-galery-section>
+        <!-- Section Kontak -->
+        <x-kontak-section></x-kontak-section>
     </div>
 </div>
 </body>

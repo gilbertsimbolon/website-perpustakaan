@@ -24,8 +24,7 @@
         <a href="#struktur" class="text-sm font-semibold text-gray-900">Struktur</a>
         <a href="#pegawai" class="text-sm font-semibold text-gray-900">Pegawai</a>
         <a href="#buku" class="text-sm font-semibold text-gray-900">Buku</a>
-        <a href="#" class="text-sm font-semibold text-gray-900">Galeri</a>
-        {{-- <a href="#" class="text-sm font-semibold text-gray-900">Video</a> --}}
-        <a href="#" class="text-sm font-semibold text-gray-900">Kontak</a>
+        <a href="#galery" class="text-sm font-semibold text-gray-900">Galeri</a>
+        <a href="#kontak" class="text-sm font-semibold text-gray-900">Kontak</a>
     </div>
 </nav>
