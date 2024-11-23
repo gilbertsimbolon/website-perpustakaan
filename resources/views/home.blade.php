@@ -25,6 +25,8 @@
         <x-struktur-section></x-struktur-section>
         <!-- Section Pegawai -->
         <x-pegawai-section></x-pegawai-section>
+        <!-- Section Buku -->
+        <x-buku-section></x-buku-section>
     </div>
 </div>
 </body>
