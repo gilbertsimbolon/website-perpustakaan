@@ -1,5 +1,5 @@
-<section id="buku" class="flex flex-col justify-start items-center pt-14 h-[calc(100vh-64px)] text-center text-white px-6" style="border: 1px solid black">
-    <div class="w-5/6 mx-auto text-center h-5/6" style="border: 1px solid red">
+<section id="buku" class="flex flex-col justify-start items-center pt-14 h-[calc(100vh-64px)] text-center text-white px-6">
+    <div class="w-5/6 mx-auto text-center h-5/6">
         <h2 class="text-5xl font-bold font-serif text-gray-900" style="letter-spacing: 2px">DAFTAR BUKU</h2>
         <div class="overflow-x-auto">
             <table class="table-auto w-full text-sm text-left text-gray-900 border-collapse border border-gray-200">

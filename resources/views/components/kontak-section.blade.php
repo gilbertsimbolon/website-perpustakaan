@@ -1,12 +1,12 @@
-<section id="kontak" class="flex flex-col justify-start items-center pt-14 h-[calc(100vh-64px)] text-center text-white px-6" style="border: 1px solid green">
-    <div class="mx-auto h-full w-5/6" style="border: 1px solid green;">
+<section id="kontak" class="flex flex-col justify-start items-center pt-14 h-[calc(100vh-64px)] text-center text-white px-6">
+    <div class="mx-auto h-full w-5/6">
         <!-- Judul -->
         <h2 class="text-5xl font-bold font-serif text-gray-900 mt-4" style="letter-spacing: 2px;">KONTAK</h2>
 
         <!-- Grid Container -->
         <div class="mt-4 grid grid-cols-2 gap-8 h-5/6 font-serif">
             <!-- Bagian Formulir -->
-            <div class="p-4 rounded-md h-full gap-y-5 hover:shadow-2xl" style="border: 1px solid blue;">
+            <div class="p-4 rounded-md h-full gap-y-5 hover:shadow-2xl">
                 <h3 class="text-lg font-bold text-center text-gray-900">FORMULIR PENDAFTARAN ANGGOTA PERPUSTAKAAN</h3>
                 <form action="#" method="POST" class="mx-auto max-w-xl mt-2">
                     <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
@@ -60,7 +60,7 @@
             </div>
 
             <!-- Bagian Kontak -->
-            <div class="p-4  shadow-md rounded-md font-serif" style="border: 1px solid red;">
+            <div class="p-4 rounded-md font-serif">
                 <div class="mt-4 h-[300px]">
                     <iframe 
                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.840596400493!2d124.87973521189778!3d1.2684637618238752!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3287153dc85e9c0f%3A0x5ce6a2455e5eb766!2sPerpustakaan%20UNIMA!5e0!3m2!1sid!2sid!4v1732511837060!5m2!1sid!2sid" 
@@ -72,7 +72,7 @@
                     referrerpolicy="no-referrer-when-downgrade">
                 </iframe>
                 </div>
-                <h3 class="text-2xl font-bold text-left text-gray-900 mt-5" style="border: 1px solid green">Kontak Perpustakaan</h3>
+                <h3 class="text-2xl font-bold text-left text-gray-900 mt-5">Kontak Perpustakaan</h3>
                 <ul class="mt-5 gap-5 ml-1 text-left text-gray-700">
                     <li class="mt-5">Alamat: Jalan Perpustakaan No. 123</li>
                     <li class="mt-5">Telepon: 021-12345678</li>
