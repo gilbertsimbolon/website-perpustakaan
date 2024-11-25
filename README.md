@@ -72,4 +72,4 @@ Jika ada pertanyaan atau masukan, kamu bisa menghubungi kami melalui:
 - Nama: [Gilbert Simbolon]
 - Email: [gilbertttsimbolon@gmail.com]
 - GitHub: [https://github.com/gilbertsimbolon](https://github.com/gilbertsimbolon)
-- Instagram: [@username](https://instagram.com/username)
+- Instagram: [@gilbertsmbln](https://instagram.com/gilbertsmbln)
