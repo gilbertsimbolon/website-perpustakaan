@@ -69,7 +69,7 @@ Kami sangat menghargai kontribusi dari pengembang lain! Jika kamu ingin berkontr
 
 Jika ada pertanyaan atau masukan, kamu bisa menghubungi kami melalui:
 
-- Nama: [Gilbert Simbolon]
-- Email: [gilbertttsimbolon@gmail.com]
+- Nama: Gilbert Simbolon
+- Email: gilbertttsimbolon@gmail.com
 - GitHub: [https://github.com/gilbertsimbolon](https://github.com/gilbertsimbolon)
 - Instagram: [@gilbertsmbln](https://instagram.com/gilbertsmbln)
