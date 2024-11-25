@@ -14,3 +14,9 @@ Website ini memungkinkan pengguna untuk mengetahui berbagai informasi perpustaka
 - Kontak : Menampilkan Formulir Registasi Anggota Perpustakaan, Titik Koordinat Perpustakaan dan juga informasi kontak beserta jadwal Perpustakaan UNIMA
 
 ## Teknologi yang Digunakan
+
+[![PHP](https://img.shields.io/badge/PHP-8.x-blue)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-8.x-orange)](https://laravel.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v2.0-blue)](https://tailwindcss.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-v8.0-orange)](https://www.mysql.com/)
+[![JWT](https://img.shields.io/badge/JWT-green)](https://jwt.io/)
