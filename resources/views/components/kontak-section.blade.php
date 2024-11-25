@@ -54,7 +54,7 @@
                     </div>
                     </div>
                     <div class="mt-10 mb-10">
-                    <button type="submit" class="block w-full rounded-md bg-indigo-600 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Bergabung Sekarang!!</button>
+                    <button type="submit" class="block w-full rounded-md bg-indigo-600 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Bergabung Sekarang !!!</button>
                     </div>
                 </form>
             </div>
@@ -74,11 +74,15 @@
                 </div>
                 <h3 class="text-2xl font-bold text-left text-gray-900 mt-5">Kontak Perpustakaan</h3>
                 <ul class="mt-5 gap-5 ml-1 text-left text-gray-700">
-                    <li class="mt-5">Alamat: Jalan Perpustakaan No. 123</li>
-                    <li class="mt-5">Telepon: 021-12345678</li>
-                    <li class="mt-5">Whatsapp : +62 853-9941-8237</li>
-                    <li class="mt-5">Email: perpustakaan@univ.edu</li>
-                    <li class="mt-5">Jam Operasional: 08.00 - 16.00 WIB</li>
+                    <li class="mt-2">Alamat: Gedung Perpustakaan Kampus Unima di Tondano, Minahasa, 95618, SULUT</li>
+                    <li class="mt-2">Telepon: 0431 321845, 321846, 321847</li>
+                    <li class="mt-2">Fax: 0431 32166</li>
+                    <li class="mt-2">Whatsapp : +62 853-9941-8237</li>
+                    <li class="mt-2">Email: perpustakaan@unima.ac.id</li>
+                    <li class="mt-2">Laman: www.unima.ac.id</li>
+                    <li class="mt-2">Jam Operasional</li>
+                    <li class="mt-2">Senin - Kamis : 07:30 - 16:00 WITA</li>
+                    <li class="mt-2">Jumat : 07:30 - 16:30 WITA</li>
                 </ul>
             </div>
         </div>
