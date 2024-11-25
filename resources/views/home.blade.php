@@ -32,6 +32,8 @@
         <!-- Section Kontak -->
         <x-kontak-section></x-kontak-section>
     </div>
+
+    <x-footer-section></x-footer-section>
 </div>
 </body>
 </html>
