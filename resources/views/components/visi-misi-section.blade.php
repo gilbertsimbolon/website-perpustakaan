@@ -23,7 +23,4 @@
                     </div>
                 </div>
             </div>
-            {{-- <div class="mt-16">
-                <img src="{{ asset('img/undraw_summer_1wi4.svg') }}" alt="Illustration" class="mx-auto max-w" style="border: 1px solid black">
-            </div> --}}
         </section>
