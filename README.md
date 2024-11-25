@@ -15,10 +15,9 @@ Website ini memungkinkan pengguna untuk mengetahui berbagai informasi perpustaka
 
 ## Teknologi yang Digunakan
 
-- **Bahasa Pemrograman**: PHP
-- **Framework Backend**: Laravel
-- **Frontend**: Tailwind CSS
-- **Database**: SQLite
-<!-- - **Autentikasi**:  -->
-- **Alat Pengembangan**: Composer, Git, TablePlus
-<!-- - **API Testing**: Postman -->
+[![PHP](https://img.shields.io/badge/PHP-8.x-blue)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-8.x-orange)](https://laravel.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-v16.x-green)](https://nodejs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v2.0-blue)](https://tailwindcss.com/)
+[![TablePlus](https://img.shields.io/badge/TablePlus-v4.0-yellow)](https://tableplus.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-3.x-blue)](https://www.sqlite.org/)
